@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.page {
+    height: 100vh;
+    width: 150%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav {
+    height: 80px;
+    width: 96%;
+    background-color: aquamarine;
+    display: flex;
+
+
+
+}
+
+
+.text {
+    height: 70vh;
+    width: 30%;
+    background-color: white;
+
+
+}
+
+.ss {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.main {
+    height: 80px;
+    width: 100%;
+
+    margin-right: 60px;
+}
+
+.sa {
+    height: 600px;
+    width: 60%;
+    display: flex;
+}
+
+.img {
+    height: 100px;
+
+
+}
